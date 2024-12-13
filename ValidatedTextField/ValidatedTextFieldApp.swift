@@ -11,7 +11,7 @@ import SwiftUI
 struct ValidatedTextFieldApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ValidatedTextField()
         }
     }
 }
